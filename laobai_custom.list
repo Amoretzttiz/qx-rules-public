@@ -3,10 +3,12 @@ IP-CIDR, 147.90.40.0/23, direct
 HOST-SUFFIX, nodecon.uk, direct
 HOST-SUFFIX, 266nets.com, direct
 HOST-SUFFIX, the-best-airport.com, direct
-HOST, codex.ciii.club, direct
-HOST-SUFFIX, ciii.club, direct
-HOST, ai.input.im, direct
-HOST-SUFFIX, input.im, direct
+HOST, codex.ciii.club, CODEX
+HOST-SUFFIX, ciii.club, CODEX
+HOST, ai.input.im, AI_INPUT
+HOST-SUFFIX, input.im, AI_INPUT
+HOST, input.codes, AI_INPUT
+HOST-SUFFIX, input.codes, AI_INPUT
 HOST-SUFFIX, nodeimage.com, 全球加速
 HOST-SUFFIX, nodeseek.com, 🏠 家宽 / 低风险
 HOST-SUFFIX, linux.do, 🏠 家宽 / 低风险
