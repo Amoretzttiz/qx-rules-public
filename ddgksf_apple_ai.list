@@ -1,0 +1,13 @@
+# NAME: Apple Intelligence 分流 (QX)
+# FORMAT: Quantumult X native list
+HOST-SUFFIX, gateway.icloud.com, 美国节点
+HOST-SUFFIX, apple-relay.apple.com, 美国节点
+HOST-SUFFIX, apple-relay.fastly-edge.com, 美国节点
+HOST-SUFFIX, apple-relay.cloudflare.com, 美国节点
+HOST-SUFFIX, guzzoni.apple.com, 美国节点
+HOST-SUFFIX, cp4.cloudflare.com, 美国节点
+HOST-SUFFIX, gspe1-ssl.ls.apple.com, 美国节点
+HOST-SUFFIX, smoot.apple.com, 美国节点
+HOST-SUFFIX, apple-relay.akamaized.net, 美国节点
+HOST-SUFFIX, apple-relay.mask.apple-dns.net, 美国节点
+HOST-SUFFIX, api-siri-prod.apple.com, 美国节点
