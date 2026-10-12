@@ -79,7 +79,3 @@ HOST, msg.umengcloud.com, direct
 HOST, bdtj.tagtic.cn, direct
 HOST-SUFFIX, umiwi.com, direct
 HOST-SUFFIX, stats.qiumibao.com, direct
-HOST, clientservices.googleapis.com, 全球加速
-HOST, dl.google.com, 全球加速
-HOST, dl.l.google.com, 全球加速
-HOST, update.googleapis.com, 全球加速

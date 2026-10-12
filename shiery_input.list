@@ -1,0 +1,5 @@
+# NAME: AI_INPUT 专属极速分流 @Shiery
+HOST, ai.input.im, AI_INPUT
+HOST-SUFFIX, input.im, AI_INPUT
+HOST, input.codes, AI_INPUT
+HOST-SUFFIX, input.codes, AI_INPUT

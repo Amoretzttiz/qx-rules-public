@@ -86,6 +86,3 @@ HOST, emby.aca.best, 国际媒体
 HOST, porn.aca.best, 国际媒体
 HOST-SUFFIX, lite.cn2gias.uk, 国际媒体
 # Emby 国内 CF 优选反代直连
-HOST-SUFFIX, auto.liuer.indevs.in, direct
-HOST-SUFFIX, auto.embys.dpdns.org, direct
-HOST-SUFFIX, auto.dolby.dpdns.org, direct
